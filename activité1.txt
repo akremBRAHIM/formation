@@ -1,0 +1,3 @@
+from random import*
+X = int(input("saisir la premiere valeur"))
+y = int(input("saisir la deuxiemme valeur"))
